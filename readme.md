@@ -47,7 +47,7 @@ Waar deze app met moet uitblinken is dat je na afloop van een goede oefening gee
 
 Oefeningen
 ----
-[Fien en Fons (isoleren)](https://github.com/kinoodaphne/stageIMD/oefeningen/isoleren1.md)
+[Fien en Fons (isoleren)](https://github.com/kinoodaphne/stageIMD/blob/master/oefeningen/isoleren1.md)
 
 Learning Management Systems
 ----
