@@ -43,7 +43,15 @@ Een zekere functionaliteit die ze in de app willen zien, is een systeem om bij t
 
 Waar deze app met moet uitblinken is dat je na afloop van een goede oefening geen standaard _"Goed gedaan"_ of _"Super! Op naar de volgende"_ feedback krijgt, maar dat de klank nog eens herhaald wordt waarom deze juist is. Vice versa voor als je een oefening fout hebt. Uitleggen waarom deze klank fout is en zeker en vast de klank nog eens laten horen.
 
-> Het verschil tussen de 2 klanken laten horen om een duidelijker onderscheid te maken wanneer de oefeninf fout is.  
+> Het verschil tussen de 2 klanken laten horen om een duidelijker onderscheid te maken wanneer de oefening fout is.  
+
+Oefeningen
+----
+[Fien en Fons (isoleren)](https://github.com/kinoodaphne/stageIMD/oefeningen/isoleren1.md)
+
+Learning Management Systems
+----
+[What is LMS and the 20 best for 2019](https://elearningindustry.com/the-20-best-learning-management-systems)
 
 Mogelijke frameworks & engines
 ----
@@ -63,6 +71,13 @@ Nuttige links
 - [Pros & cons - ReactJS](https://www.javatpoint.com/pros-and-cons-of-react)
 - [Pros & cons - AngularJS](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-angular-development/)
 - [Pros & cons - Lua (Defold)](https://www.reddit.com/r/lua/comments/6dd6c1/what_are_the_pros_and_cons_of_lua/)
+
+Tutorials
+----
+[Angular](https://www.freecodecamp.org/news/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7/)
+[Vue](https://www.taniarascia.com/getting-started-with-vue/)
+[Defold](https://defold.com/tutorials/getting-started/)
+
 
 Voorbeelden fonetisch
 ---
